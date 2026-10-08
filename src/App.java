@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String nimi = "sami";
+        String nimi = "antti";
 
         while(true)
         {

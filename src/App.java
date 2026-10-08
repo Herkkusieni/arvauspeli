@@ -16,7 +16,7 @@ public class App {
                 System.out.println("Onneksi olkoon! Arvasit oikein.");
                 break;
             } else {
-                System.out.println("Väärin!");
+                System.out.println("Väärin arvattu!");
             }
         }
 
